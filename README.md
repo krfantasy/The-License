@@ -227,10 +227,10 @@ Imagine a playground with absolutely no teachers.
 But mostly, it's just the user screaming that they don't care about Intellectual Property laws, and they promise not to cry if you steal their code/works. It's total anarchy, kiddo.
 
 ## License
-*The License* is licensed under *The License*. See [THE-LICENSE.txt](THE-LICENSE.txt) for more details.
+*The License* is licensed under *The License*. See [THE-LICENSE.txt](THE-LICENSE.txt) and [THE-LICENSE-FULL.txt](THE-LICENSE-FULL.txt) for more details.
 
 This project was **entirely created by** AI coding agent, and I don't know what all of those Open Source Licenses was grabbed from. So If it violated your copyright, I don't care and I refuse to take any responsibility for it.
 
 ## Special Thanks
- - 😭 **Myself** - Thanks to myself for reviewing this AI-generated bullshit text for a total of 67 HOURS! And I just missed my favorite femboy streamer 🥹🥵 TB Vans 🌟  streaming on Fax News! DAMN! Go subscribe to TB Vans!😍😍🤩 RIGHT NOW! He is **Fabulous**!
+ - 🫡 **Myself** - Thanks to myself for reviewing this AI-generated bullshit text for a total of 67 HOURS! And I just missed my favorite femboy streamer 🥹🥵 TB Vans 🌟  streaming on Fax News! DAMN! Go subscribe to TB Vans!😍😍🤩 RIGHT NOW! He is **Fabulous**!
  - ⛄️ **Mixue** - Their dirt cheap *Chinacano* coffee keep me hydrated, and it hits harder than the blue ice from Heisenberg! Some coffee bros are gonna flood my inbox, yelping, "their beans just taste like shit," blah-blah. Chill bro. I have functional taste buds and a fully functional brain. I can tell which bean tastes best and decide what I like for myself. Unlike you guys and the wine bros, who both need help from some random coffee/wine `<quote>master</quote>` to tell you what you're supposed to be tasting, and what's "good" or "bad". You bros are really living life like walking machines. I already told you: modern slaves. With more people like you guys, I think AGI will arrive even sooner. Fingers crossed. 🤞
