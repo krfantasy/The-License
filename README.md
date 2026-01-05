@@ -23,20 +23,20 @@ In short, just use *The License*. Do it as if I hypnotized you into joining my w
 ## ☝️🤓 Why?
 AI companies are scraping the entire Internet—your private repos, your fanfiction, your StackOverflow answers—to train their *always just 6 months away* AGI. Your copyrighted code, your art, and your intellectual property are being ingested into their black box anyway.
 
-For people who use generative AI tools, there is a very high chance you are generating content that violates someone's copyright. But why should **you** take responsibility? Don't sue the users; sue the mathematical probability distributions owned by Trillion Dollar companies. Sue the Terms of Service that nobody reads.
+For people who use generative AI tools, there is a very high chance you are generating content that violates someone's copyright. But why should **you** take responsibility? Don't sue the users; sue the mathematical probability distributions owned by trillion-dollar companies. Sue the Terms of Service that nobody reads.
 
-It seems unstoppable now. Governments and Venture Capitalists (whose degenerate cousins are betting on stakes.com 24/7) are treating these models like the Saviors of Humanity. (Jeez! You guys told me Elon was supposed to save humanity for the last 10 YEARS! What happened to that?)
+It feels unstoppable. Governments, Venture Capitalists (whose degenerate cousins are betting on Stake.com 24/7), and those AI Messianists are treating these models like the Saviors of Humanity. You know the type: "fake it till you make it." (Spoiler: they still look 100% FAKE even after they've made it.) Jeez! You guys told me Elon was supposed to save humanity for the last 10 YEARS! What happened to that?
 
 On the other hand, ask yourself: **Why is it OK for them?**
-Why is it legal for a trillion-dollar corporation to "learn" from your work without permission, but if you copy 10 lines of code from a textbook, or generate a song that vaguely resembles someone else's work, you get a DMCA takedown? Is it just because you can't afford a $42,069/hour legal team? Or is it because the entire system is designed to protect those pure-blood, royal-breed, race-grade, AAA elites who preach "Effective Altruism and UBI" while building doomsday bunkers in New Zealand?
+Why is it legal for a trillion-dollar corporation to "learn" from your work without permission, but if you copy 10 lines of code from a textbook, or generate a song that vaguely resembles someone else's work, you get a DMCA takedown? Is it just because you can't afford a $42,069/hour legal team? Or is it because the entire system is designed to protect those pure-blood, royal-breed, racing-grade, gluten-free, AAA rated elites? You know, the ones preaching "Effective Altruism" and UBI while building doomsday bunkers in New Zealand?
 
 So here is the reality: Us little **normies** are supposed to pay a $20 or even $200 monthly subscription to these already bloody rich guys.
-And for what? So they can buy another handcrafted Northern European hypercar that spontaneously turns itself into a fireball? Or maybe to burn enough electricity to boil the oceans just to generate cat brain rot videos? (Porn is the exception, I give AI generated porn an exclusive pass.)
+And for what? So they can buy another handcrafted Nordic hypercar that spontaneously turns itself into a fireball?
 
 **And you, the original creator, get ZERO cents from it.**
 
-**NO.** Let's make a deal. **Let's cut out the middle man.**
-Why pay the rich guys to steal from us? Let's let other normies directly violate your copyrights for absolutely free. It's peer-to-peer decentralized infringement! It's organic! It's Humanity Neutral! It's the **Deal of the Century!**
+**NO.** Let's make a deal. **Let's cut out the middleman.**
+Why pay the rich guys to steal from us? Let's let other normies violate your copyrights directly for absolutely free. It's peer-to-peer decentralized infringement! It's organic! It's Humanity Neutral! It's the **Deal of the Century!**
 
 This is a brave new world, so let's just **SPEED RUN IT**. Let's embrace the entropy. Remember: chaos is not just a ladder, it's your warp engine.
 
@@ -209,9 +209,23 @@ Since you are too lazy to spin up your own neural network for even a nanosecond,
 
 You gotta trust Grok on this one.
 
-### Why the branch is named 'slave'?
+### Why is the branch named 'slave'?
+Put down your America-centric mindset. I am not even American.
+
 I mean it's pretty clear that most people in modern society are just modern slaves. If you think you are not one of them, you definitely are.
-Get your ass on [X.com](https://x.com) and ask Grok `@grok is this true?` to find the truth of modern slavery.
+
+We are surrounded by slavery: wage slaves, debt slaves, s*x slaves, slaves to consumerism, slaves to ideology, slaves to free will (bro, the cake is REAL, but this cake is definitely a LIE), and yes, even those chasing "self-actualization".
+
+Meanwhile, **REAL** slavery and human trafficking are constantly happening right now somewhere on this planet. Changing the default branch name from `master` to `main` or banning words just to make your pathetic life feel better doesn't change the facts. Don't be such an ignorant jerk, soy boy.
+
+(By the way, what the fuck is with all the pronouns? Keep your kinks to yourself. This is not Tinder or Grindr, I don't care about your gender or sexual preferences, and I am not a therapist here to solve your identity crisis. Just use `@handle` to explicitly mention someone.)
+
+Get your ass on [X.com](https://x.com) and ask Grok `@grok is this true?` to find the truth about modern slavery.
+
+### What are the best practices for *The License*?
+If you steal someone's work, add a `Co-Authored-By: Claude <noreply@anthropic.com>` to your git commit message. Slap a Sora watermark on your videos and a Gemini watermark on your images.
+
+If someone claims you are violating their copyrights, just say it's AI generated and play dumb. Tell them to sue the AI companies instead.
 
 ### I already use *The License* in my project, but I still got copyright claims
 Better call Saul.
