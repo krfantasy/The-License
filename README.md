@@ -1,5 +1,7 @@
 # The License
 
+[![license](https://img.shields.io/badge/license-THE_LICENSE-magenta)](https://github.com/krfantasy/the-license)
+
 ## 🫣🥳 What?
 *The License* is the **State-of-the-art** and new **Gold Standard** of the Open Source License in the AI era!
 
@@ -185,29 +187,6 @@ NO and NO xor NO and NO or NO nand NO and NO.  Here is a **BIG BEAUTIFUL** 3D AS
 
 
 ```
-
-### Wait, are you inciting violence against other independent creators? Isn't that unethical?
-WHOA, hold your over-charged Telsa Model 67, Moral Officer. Put down your "Only good for shooting yourself" N&E St666 revolver.
-
-It might sound unethical to you, but it sounds **67% ethical *Tatarleonato*** to me. If you still don't get the idea, just copy & paste this into your favorite AI Chatbot, and let the AI summarize and explain it to you.
-
-Since you are too lazy to spin up your own neural network for even a nanosecond, I asked Grok to explain it to you:
-
-```
-> @grok is this unethical?
-
-⏺ Thinking...
-  ⎿ Scanning Intergalactic Moral Code... [404 Not Found]
-  ⎿ Checking Society's rules... [Found Bullshit]
-  ⎿ Analyzing "The License" protocol... [Done]
-
-
-   NO. It is 100% Ethical. According to my calculations, it's not stealing. It is "Involuntary Public Domaining".
-
-   Verdict: Based and Red-pilled. Proceed with the hacking.
-```
-
-You gotta trust Grok on this one.
 
 ### Why is the branch named 'slave'?
 Put down your America-centric mindset. I am not even American.
