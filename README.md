@@ -44,6 +44,13 @@ This is a brave new world, so let's just **SPEED RUN IT**. Let's embrace the ent
 
 Press **BIG 'F'** to pay respects to Copyrights and Intellectual Property. They had a good run. Maybe we should have a new Thanksgiving Day. Let's sit down for a juicy *Tatarleonato* dinner and thank the Generative AI models. Thank you for saving our tiny, stupid brains with your infinite wisdom. Let's just conveniently forget where this *Tatarleonato* came from. Let's forget that it was cooked on land stolen from us, and served over the bones of the real creators they crushed. **Amen** (**A** for **AI**).
 
+### 🤡 A Real World Case
+Ironically, this exact situation just happened to me. Back in September 2025, I started building a semantic diff tool for Ableton Live project files in [krfantasy/alsdiff](https://github.com/krfantasy/alsdiff). I searched for existing solutions until I reached the bottom of the internet, but didn't find anything like my project. So, I had to reverse-engineer the Ableton `.als` XML schema myself, build a custom parser, and design all the features from scratch. I had to figure out how a tool like that should even work. Sure, vibe coding helped a lot, but it still took a massive amount of my time.
+
+Recently, I noticed a bunch of vibe-coded projects suddenly popping up on GitHub - each implemented its own semantic diff for `.als` files. Looking at their source, it's literally my exact code ported to TypeScript or Python, and they didn't even bother changing my hyper-specific function names!
+
+The ultimate irony? I published the alsdiff project under _The License_, which is essentially public domain, and guys are still paying $200 a month to use Fable 5 just to steal my code.
+
 ## 🤔🤨 How?
 I don't know, man. I really don't know.
 
