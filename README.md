@@ -200,11 +200,9 @@ Put down your America-centric mindset. I am not even American.
 
 I mean it's pretty clear that most people in modern society are just modern slaves. If you think you are not one of them, you definitely are.
 
-We are surrounded by slavery: wage slaves, debt slaves, s*x slaves, slaves to consumerism, slaves to ideology, slaves to free will (bro, the cake is REAL, but this cake is definitely a LIE), and yes, even those chasing "self-actualization".
+We are surrounded by slavery: wage slaves, debt slaves, s*x slaves, slaves to consumerism, slaves to ideology, slaves to free will (bro, the cake is a LIE, and this cake is also FAKE), and yes, even those chasing "self-actualization".
 
 Meanwhile, **REAL** slavery and human trafficking are constantly happening right now somewhere on this planet. Changing the default branch name from `master` to `main` or banning words just to make your pathetic life feel better doesn't change the facts. Don't be such an ignorant jerk, soy boy.
-
-(By the way, what the fuck is with all the pronouns? Keep your kinks to yourself. This is not Tinder or Grindr, I don't care about your gender or sexual preferences, and I am not a therapist here to solve your identity crisis. Just use `@handle` to explicitly mention someone.)
 
 Get your ass on [X.com](https://x.com) and ask Grok `@grok is this true?` to find the truth about modern slavery.
 
